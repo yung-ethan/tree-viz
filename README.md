@@ -21,7 +21,7 @@ If you create your own example in a JSON file, the data source can be altered by
 
 ## Running locally
 * `./serve.sh`
-* Point your web browser to http://localhost:8000/?tree=example-musicians
+* Point your web browser to http://localhost:8000/?tree=example-music-artists
 
 ## License
 MIT License.
