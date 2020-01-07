@@ -1,5 +1,5 @@
 # D3 Tree Visualization with Variable Branch Length
-This is a visualization for displaying hierarchical, tree-like relationships. It is an extension of the work others have done, in which I sought to allow the branch lengths to vary based on values provided in the source data. View the example at this link: https://yung-ethan.github.io/tree-viz/?tree=example-musicians
+This is a visualization for displaying hierarchical, tree-like relationships. It is an extension of the work others have done, in which I sought to allow the branch lengths to vary based on values provided in the source data. View the example at this link: https://yung-ethan.github.io/tree-viz/?tree=example-music-artists
 
 Tree visualization features include:
 * Variable branch length
